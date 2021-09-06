@@ -3,8 +3,8 @@
 
 ##  💻 Sobre os projetos</br> </br> 
 
-Estes projetos foram proposto durante a realização da terceira edição do <a href="https://www.alura.com.br/"> Alura </a> Challenge, durante o mês de setembro de 2021.
-Durante as 4 semanas do desafio foram propostos:
+Estes projetos foram proposto durante a realização da terceira edição do <a href="https://www.alura.com.br/"> Alura </a> Challenge, no mês de setembro de 2021.
+Durante as 4 semanas do desafio foram propostas as seguintes realizações:
 
 - Desenvolvimento de um dashboard operacional de logística atendendo as necessidades da empresa.
 
