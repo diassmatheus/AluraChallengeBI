@@ -1,5 +1,5 @@
  
-# <p align="center"> <b> #3 Edição Alura Challenge: Desafios BI </b> 
+# <p align="center"> <b> Alura Challenge: Desafios BI </b> 
 
 ##  💻 Sobre o desafio</br> </br> 
 
