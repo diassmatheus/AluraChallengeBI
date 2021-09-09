@@ -2,8 +2,6 @@
 
 [Acessar o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTIwMDQzMGQtNDUwMC00Njc0LWI5M2MtZjU4YTU4MjEzYjA4IiwidCI6ImQ0NDEzYjc1LWUxZWYtNGViYi1hZGIzLWFlZThmZTBlZDJlNSJ9&pageName=ReportSectionefcfe0e64d15920c0688)
 
-![dashboard-aluralog](https://drive.google.com/file/d/1-eRB4PGcd7d1b3aOc1QMrZalhgo24H5M/view?usp=sharing)
-
 <br>
 
 ### Situação problema
