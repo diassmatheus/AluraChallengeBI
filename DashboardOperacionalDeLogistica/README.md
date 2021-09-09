@@ -36,8 +36,6 @@ A extração, transformação e carga dos dados, bem como os painéis de visuali
 
 Foram disponibilizadas 4 bases de dados para esse desafio, sendo elas:
 
-<ul>
-
   
 
 
