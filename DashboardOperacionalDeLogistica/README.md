@@ -10,18 +10,13 @@
 
 [Base de dados](#database)
 
-[Solução](#solution)
-
-[Contato](#contact)
-
 
 <br>
 <a name="businesscase"/>
 
 ### Situação problema
 
-A pessoa que gerencia a área de logística da Alura Log, está enfrentando algumas mudanças em sua área por conta do aumento da demanda dos serviços de logística no período da pandemia. Ela quer manter a qualidade de seu serviço, mas para isso precisa acompanhar constantemente as métricas do seu departamento para tomar as melhores decisões. Quando nos contou isso, analisamos que para auxiliar nesse desafio precisaremos fazer um dashboard para logística. Para isso, vamos visualizar algumas métricas muito importantes para a área.
-
+A pessoa que gerencia a área de logística da Alura Log, está enfrentando algumas mudanças em sua área por conta do aumento da demanda dos serviços de logística no período da pandemia. Ela quer manter a qualidade de seu serviço, mas para isso precisa acompanhar constantemente as métricas do seu departamento para tomar as melhores decisões. 
 
 <br>
 
@@ -105,10 +100,3 @@ A <b>Tabela de Veículos</b> apresenta os registros de disponibilidade atual dos
 </ul>
 
 ### 
-
-<a name="solution"/>
-
-<br>
-
-### Solução
-
