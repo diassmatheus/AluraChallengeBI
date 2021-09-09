@@ -37,16 +37,11 @@ A extração, transformação e carga dos dados, bem como os painéis de visuali
 Foram disponibilizadas 4 bases de dados para esse desafio, sendo elas:
 
 <ul>
-    <li>Tabela de Estoque</li>
-    <li>Tabela de Pedidos</li>
-    <li>Tabela de Produtos</li>
-    <li>Tabela de Veículos</li>
-</ul>
+
+  
 
 
-
-
-A <b>Tabela de Estoque</b> apresenta <i>snapshots</i> do estoque em diversos momento do tempo e possui:
+<b>Tabela de Estoque</b>
 
 <ul>
     <li>ID Produto</li>
@@ -57,7 +52,7 @@ A <b>Tabela de Estoque</b> apresenta <i>snapshots</i> do estoque em diversos mom
 
 
 
-A <b>Tabela de Pedidos</b> apresenta o registro de todos os pedidos ocorridos e possui:
+<b>Tabela de Pedidos</b>
 
 <ul>
     <li>ID Pedido</li>
@@ -77,7 +72,7 @@ A <b>Tabela de Pedidos</b> apresenta o registro de todos os pedidos ocorridos e 
 
 
 
-A <b>Tabela de Produtos</b> apresenta todos os produtos registrados no sistema e possui:
+<b>Tabela de Produtos</b>
 
 <ul>
     <li>categoria_produto</li>
@@ -87,7 +82,7 @@ A <b>Tabela de Produtos</b> apresenta todos os produtos registrados no sistema e
 
 
 
-A <b>Tabela de Veículos</b> apresenta os registros de disponibilidade atual dos veículos da AluraLog e possui:
+<b>Tabela de Veículos</b>
 
 <ul>
     <li>ID Veículos</li>
