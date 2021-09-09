@@ -1,5 +1,4 @@
-**<h1>🚛 Dashboard de Logística</h1>**
-# Desafio 1: AluraLog Dashboard de Logística 🚚
+**<h1>Desafio 1: 🚛 Dashboard de Logística</h1>**
 
 [Acessar o Dashboard](https://app.powerbi.com/viewr=eyJrIjoiOTIwMDQzMGQtNDUwMC00Njc0LWI5M2MtZjU4YTU4MjEzYjA4IiwidCI6ImQ0NDEzYjc1LWUxZWYtNGViYi1hZGIzLWFlZThmZTBlZDJlNSJ9&pageName=ReportSectionefcfe0e64d15920c0688)
 
@@ -7,7 +6,7 @@
 
 ### Índice
 
-[Estudo de caso](#businesscase)
+[Situação problema](#businesscase)
 
 [Base de dados](#database)
 
@@ -19,7 +18,7 @@
 <br>
 <a name="businesscase"/>
 
-### Estudo de caso
+### Situação problema
 
 A pessoa que gerencia a área de logística da Alura Log, está enfrentando algumas mudanças em sua área por conta do aumento da demanda dos serviços de logística no período da pandemia. Ela quer manter a qualidade de seu serviço, mas para isso precisa acompanhar constantemente as métricas do seu departamento para tomar as melhores decisões. Quando nos contou isso, analisamos que para auxiliar nesse desafio precisaremos fazer um dashboard para logística. Para isso, vamos visualizar algumas métricas muito importantes para a área.
 
@@ -33,7 +32,7 @@ A pessoa que gerencia a área de logística da Alura Log, está enfrentando algu
   <li>Visualizar quantas entregas foram feitas com atraso;</li>
   <li>Visualizar o número de veículos disponíveis;</li>
   <li>Exibir o índice de ocorrências por estado;</li>
-  <li>Exibir o nível médio de estoque por ano;</li>
+  <li>Exibir o nível de estoque por ano;</li>
   <li>Calcular o Ship to Door (S2D) - tempo da ordem até a entrega em dias;</li>
   <li>Extra: Incluir outros insights relevantes.</li>
 </ul>
