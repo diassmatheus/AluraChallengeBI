@@ -71,8 +71,8 @@ Foram disponibilizadas 4 bases de dados para esse desafio, sendo elas:
 <b>Tabela de Produtos</b>
 
 <ul>
-    <li>categoria_produto</li>
-    <li>preço</li>
+    <li>Categoria de Produto</li>
+    <li>Preço</li>
 </ul>
 
 
