@@ -18,13 +18,13 @@ A extração, transformação e carga dos dados, bem como os painéis de visuali
 ### Métricas
 
 <ul>
-  <li>Visualizar quantas entregas foram feitas no prazo;</li>
-  <li>Visualizar quantas entregas foram feitas com atraso;</li>
-  <li>Visualizar o número de veículos disponíveis;</li>
-  <li>Exibir o índice de ocorrências por estado;</li>
-  <li>Exibir o nível de estoque por ano;</li>
-  <li>Calcular o Ship to Door (S2D) - tempo da ordem até a entrega em dias;</li>
-  <li>Extra: Incluir outros insights relevantes.</li>
+  <li>Custo por click;</li>
+  <li>Ticket Médio por dispositivo;</li>
+  <li>ROAS (Return on Advertising Spend);</li>
+  <li>Total de compras;</li>
+  <li>Valor investido na campanha total;</li>
+  <li>Total de valor convertido em compras;</li>
+  <li>Valor convertido em compras por dia.</li>
 </ul>
 
 
