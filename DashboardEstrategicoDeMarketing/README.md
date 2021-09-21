@@ -15,7 +15,7 @@ A extração, transformação e carga dos dados, bem como os painéis de visuali
 
 <br>
 
-### Requisitos
+### Métricas
 
 <ul>
   <li>Visualizar quantas entregas foram feitas no prazo;</li>
@@ -32,58 +32,9 @@ A extração, transformação e carga dos dados, bem como os painéis de visuali
 
 ### Base de Dados
 
-Foram disponibilizadas 4 bases de dados para esse desafio, sendo elas:
+A base de dados consiste em duas tabelas no formato JSON:
 
-  
-
-
-<b>Tabela de Estoque</b>
-
-<ul>
-    <li>ID Produto</li>
-    <li>Data atualização</li>
-    <li>Quantidade</li>
-</ul>
-
-
-
-
-<b>Tabela de Pedidos</b>
-
-<ul>
-    <li>ID Pedido</li>
-    <li>ID Produto</li>
-    <li>Quantidade</li>
-    <li>ID Veículo</li>
-    <li>Status do pedido</li>
-    <li>Data da compra</li>
-    <li>Data da entrega</li>
-    <li>Data previsão</li>
-    <li>Latitude</li>
-    <li>Longitude</li>
-    <li>UF da entrega</li>
-</ul>
-
-
-
-
-
-<b>Tabela de Produtos</b>
-
-<ul>
-    <li>Categoria de produto</li>
-    <li>Preço</li>
-</ul>
-
-
-
-
-<b>Tabela de Veículos</b>
-
-<ul>
-    <li>ID Veículos</li>
-    <li>Tipo</li>
-    <li>Status</li>
-</ul>
+<b>Tabela dispositivos</b>
+<b>Tabela idade e gênero</b>
 
 ### 
