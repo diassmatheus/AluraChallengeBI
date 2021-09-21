@@ -34,7 +34,9 @@ A extração, transformação e carga dos dados, bem como os painéis de visuali
 
 A base de dados consiste em duas tabelas no formato JSON:
 
-<b>Tabela dispositivos</b>
-<b>Tabela idade e gênero</b>
+<ul>
+    <li>Tabela dispositivos</li>
+    <li>Tabela idade e gênero</li>
+</ul>
 
 ### 
