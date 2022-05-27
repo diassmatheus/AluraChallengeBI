@@ -8,4 +8,4 @@ Estes projetos foram propostos durante a realização da terceira edição do <a
 - Desenvolvimento de um dashboard operacional de logística atendendo as necessidades da empresa. Para maiores detalhes sobre este projeto <a href="https://github.com/diassmatheus/AluraChallengeBI/tree/main/DashboardOperacionalDeLogistica"> clique aqui</a>.
 
 - Criação de um dashboard estratégico de marketing para monitorar uma campanha em uma empresa de e-commerce. Para maiores detalhes sobre este projeto <a href="https://github.com/diassmatheus/AluraChallengeBI/tree/main/DashboardEstrategicoDeMarketing"> clique aqui</a>.
-- 
+
